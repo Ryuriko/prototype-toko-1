@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100vw 120vh;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-image: url('https://cdn.pixabay.com/photo/2022/06/29/17/46/pen-7292248_1280.jpg');
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: 100vw 120vh;
+    }    
+}
+
+.head {
+    background: rgba(0, 0, 0, 0);
+}
+.judul-index {
+    font-family: 'Times New Roman', Times, serif;
+}
