@@ -7,7 +7,8 @@ body {
 
 @media only screen and (max-width: 768px) {
     body {
-        background-image: url('https://cdn.pixabay.com/photo/2022/06/29/17/46/pen-7292248_1280.jpg');
+        overflow: scroll;
+        background-image: url('https://cdn.pixabay.com/photo/2023/04/24/10/16/architecture-7947724_1280.jpg');
         background-position: top;
         background-repeat: no-repeat;
         background-size: 100vw 120vh;
